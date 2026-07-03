@@ -1,5 +1,5 @@
 # 🚖 OLA Ride Booking Analysis Dashboard
-![Dashboard Overview](Dashboard%20images/dashboard-overview.png)
+![Dashboard Overview](Dashboard-images/dashboard-overview.png)
 
 ## 📌 Project Overview
 
@@ -81,6 +81,7 @@ Cleaning steps included:
 # 📊 Dashboard Pages
 
 ## 1️⃣ Overall Dashboard
+![Dashboard Overview](Dashboard-images/dashboard-overview.png)
 
 Provides a high-level business summary including:
 
@@ -92,6 +93,7 @@ Provides a high-level business summary including:
 ---
 
 ## 2️⃣ Vehicle Type Analysis
+![Vehicle Type Analysis](Dashboard-images/vehicle-type-analysis.png)
 
 Analyzes
 
@@ -103,6 +105,7 @@ Analyzes
 ---
 
 ## 3️⃣ Revenue Dashboard
+![Revenue Analysis](Dashboard-images/revenue-analysis.png)
 
 Tracks
 
@@ -114,6 +117,7 @@ Tracks
 ---
 
 ## 4️⃣ Cancellation Dashboard
+![Cancellation Analysis](Dashboard-images/cancellation-analysis.png)
 
 Analyzes
 
@@ -125,6 +129,7 @@ Analyzes
 ---
 
 ## 5️⃣ Ratings Dashboard
+![Ratings Analysis](Dashboard-images/ratings-analysis.png)
 
 Monitors
 
