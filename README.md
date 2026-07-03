@@ -1,5 +1,5 @@
 # 🚖 OLA Ride Booking Analysis Dashboard
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](Dashboard images/dashboard-overview.png)
 ## 📌 Project Overview
 
 This project is an end-to-end Power BI dashboard developed to analyze OLA ride booking performance and provide business insights into customer behavior, booking trends, cancellations, revenue generation, vehicle performance, and customer satisfaction.
